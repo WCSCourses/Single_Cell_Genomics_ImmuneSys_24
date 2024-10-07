@@ -55,7 +55,7 @@ This hands-on bioinformatics workshop will offer a series of lectures and practi
 - [Anna (Ania) Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/), Wellcome Sanger Institute, UK
 - [Benilton Carvalho](https://portal.dados.unicamp.br/perfil?origem=&docente=309039&sigla_unidade=IMECC&nome_unidade=INSTITUTO%20DE%20MATEMATICA,%20ESTATISTICA%20E%20COMPUTACAO%20CIENTIFICA&nome_programa=), UNICAMP, Brazil 
 - [Carla Jones](https://www.sanger.ac.uk/person/jones-bell-carla/), Wellcome Sanger Institute, UK
-- [Danilo Ceschin](https://www.iucbc.edu.ar/cimetsa/investigacion-traslacional-en-epigenetica-y-aterosclerosis.html), CIMETSA - IUCBC, Argentina 
+- [Danilo Ceschin](https://www.iucbc.edu.ar/cimetsa/investigacion-traslacional-en-epigenetica-y-aterosclerosis.html), CIMETSA - IUCBC, Argentina
 - [Diego Ramirez](), UNAM, Mexico
 - [Evelia Coss](https://eveliacoss.github.io/), UNAM, Mexico
 - [Felipe Gajardo](https://www.researchgate.net/profile/Felipe-Gajardo-3), PUC, Chile 
