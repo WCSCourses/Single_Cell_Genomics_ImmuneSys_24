@@ -83,8 +83,8 @@ Single-cell RNA sequencing (scRNA-seq) technology revolutionizes our understandi
 
 - Lecture: Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides]()
 - scRNAseq tutorial [Slides]()
-- scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNASeq_25-10-2024.ipynb)
-- scRNAseq workshop solutions [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq_Workshop_Solutions_25-10-2024.ipynb)
+- scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq.ipynb)
+- scRNAseq workshop solutions [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq_Workshop_Solutions.ipynb)
 
 ### Module 2: CITE-seq tutorial
 
