@@ -74,7 +74,9 @@ This hands-on bioinformatics workshop will offer a series of lectures and practi
 ******
 
 # Bioinformatics Material
-**Module 1: scRNA-seq tutorial**
+
+### Module 1: scRNA-seq tutorial
+
 Date: Saturday 9 November
 
 This tutorial will explain the basis of single-cell and immune system applications. Also, will offer a computational practice using open data to understand the workflow of scRNA-seq data analysis.
@@ -83,7 +85,8 @@ This tutorial will explain the basis of single-cell and immune system applicatio
 - scRNAseq tutorial [Slides]()
 - scRNAseq tutorial [Google Colab Notebook]()
 
-**Module 2: CITE-seq tutorial**
+### Module 2: CITE-seq tutorial
+
 Date: Sunday 10 November
 
 CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an advanced technique that merges single-cell RNA sequencing (scRNA-seq) with protein marker detection. This tutorial will explain the computational analysis of this data.
@@ -93,7 +96,8 @@ CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an 
 - Lecture: Combining samples together in the analysis to answer biological questions [Google Colab Notebook]()
 - Immune receptor repertoires in single-cell technologies [Google Colab Notebook]()
 
-**Module 3: ATAC-seq tutorial**
+### Module 3: ATAC-seq tutorial
+
 Date: Monday 11 November
 
 In this workshop we will review the existing statistical tools for analyzing scATAC-seq data, how to document your analysis and review some tools for interpreting results.
