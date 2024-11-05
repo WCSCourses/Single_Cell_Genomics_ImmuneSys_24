@@ -73,6 +73,30 @@ This hands-on bioinformatics workshop will offer a series of lectures and practi
 
 ******
 
+# Bioinformatics Material
+Module 1: scRNA-seq tutorial
+This tutorial will explain the basis of single-cell and immune system applications. Also, will offer a computational practice using open data to understand the workflow of scRNA-seq data analysis.
+
+- Lecture: Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides]()
+- scRNAseq tutorial [Slides]()
+- scRNAseq tutorial [Google Colab Notebook]()
+
+Module 2: CITE-seq tutorial
+CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an advanced technique that merges single-cell RNA sequencing (scRNA-seq) with protein marker detection. This tutorial will explain the computational analysis of this data.
+
+- CITEseq tutorial [Slides]()
+- CITEseq tutorial [Google Colab Notebook]()
+- Lecture: Combining samples together in the analysis to answer biological questions [Google Colab Notebook]()
+- Immune receptor repertoires in single-cell technologies [Google Colab Notebook]()
+
+Module 3: ATAC-seq tutorial
+In this workshop we will review the existing statistical tools for analyzing scATAC-seq data, how to document your analysis and review some tools for interpreting results.
+
+- ATACseq tutorial [Slides]()
+- ATACseq tutorial [Google Colab Notebook]()
+
+******
+
 ## Citing and Re-using Course Material
 
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 
