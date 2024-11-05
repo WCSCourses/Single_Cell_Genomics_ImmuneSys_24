@@ -79,28 +79,37 @@ This hands-on bioinformatics workshop will offer a series of lectures and practi
 
 Date: Saturday 9 November
 
-This tutorial will explain the basis of single-cell and immune system applications. Also, will offer a computational practice using open data to understand the workflow of scRNA-seq data analysis.
+Single-cell RNA sequencing (scRNA-seq) technology revolutionizes our understanding of cellular heterogeneity by enabling transcriptomic analysis at the single-cell level. This tutorial will explain the basis of single-cell and immune system applications through a lecture that delves into the principles and methodologies of scRNA-seq, with focus on how they shape and influence analysis. Key technological implementations will be discussed. More technical part of this talk will outline processing the sequencing data, from raw reads in FASTQ files to preprocessing-ready count matrices and methods for cleaning and adjusting data in preprocessing (identification of bad quality cells and multiplets, demultiplexing pooled samples). Finally, this tutorial will offer a computational practice using open data to understand the workflow of scRNA-seq data analysis.
 
 - Lecture: Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides]()
 - scRNAseq tutorial [Slides]()
-- scRNAseq tutorial [Google Colab Notebook]()
+- scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNASeq_25-10-2024.ipynb)
+- scRNAseq workshop solutions [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq_Workshop_Solutions_25-10-2024.ipynb)
 
 ### Module 2: CITE-seq tutorial
 
 Date: Sunday 10 November
 
-CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an advanced technique that merges single-cell RNA sequencing (scRNA-seq) with protein marker detection. This tutorial will explain the computational analysis of this data.
+CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an advanced technique that merges single-cell RNA sequencing (scRNA-seq) with protein marker detection, enabling comprehensive profiling of individual cells at both the transcriptomic and proteomic levels. By attaching unique oligonucleotide barcodes to antibodies that bind specific cell surface proteins, CITE-Seq allows for simultaneous measurement of gene expression and protein abundance in thousands of single cells. This dual-modality approach offers deeper insights into cellular heterogeneity, states, and functions compared to traditional methods. CITE-Seq has proven invaluable in various fields, including immunology, oncology, and developmental biology, providing a powerful tool for deciphering complex biological systems and advancing precision medicine. This technique's ability to integrate RNA and protein data from the same cells presents new opportunities for biomarker discovery, disease characterization, and therapeutic development. This tutorial will explain the basis and the computational analysis of CITE-seq data.
 
 - CITEseq tutorial [Slides]()
 - CITEseq tutorial [Google Colab Notebook]()
+
+### Module 3: Between groups analysis and Immune receptors
+
+Date: Sunday 10 November 
+
+Single cell technologies provide significant opportunities for biological discovery, but the laboratory methods and intrinsic sample variability pose challenges when analyzing samples together. Similarly, the sparse nature of expression data requires special statistical handling when comparing samples across groups. This module present ways to deal with batch effects and variance-reducing methods in downstream analyses of scRNAseq. On the other hand, this module cover the basics of receptor biology and explain how receptor sequences are obtained, both through targeted methods and serendipitous discovery. It will address the challenges involved in interpreting these sequences and explore the various applications of this data. In the practical section, participants will work with single-cell RNA sequencing (scRNA-seq) data that contains receptor information. The session will include an introduction to accessing this data and outline the typical benefits it provides.
+
 - Lecture: Combining samples together in the analysis to answer biological questions [Google Colab Notebook]()
+- Immune receptor repertoires in single-cell technologies [Slides]()
 - Immune receptor repertoires in single-cell technologies [Google Colab Notebook]()
 
-### Module 3: ATAC-seq tutorial
+### Module 4: ATAC-seq tutorial
 
 Date: Monday 11 November
 
-In this workshop we will review the existing statistical tools for analyzing scATAC-seq data, how to document your analysis and review some tools for interpreting results.
+Single-cell transposase-accessible chromatin sequencing (scATAC-seq) represents the most innovative technology for examining genome-wide regulatory landscapes in single cells. For this tutorial, we will be analyzing a single-cell ATAC-seq dataset of human peripheral blood mononuclear cells (PBMCs) provided by 10x Genomics. We will run bridge integration for PBMC with the newly released Azimuth ATAC workflow. In this workshop we will review the existing statistical tools for analyzing scATAC-seq data, how to document your analysis and review some tools for interpreting results.
 
 - ATACseq tutorial [Slides]()
 - ATACseq tutorial [Google Colab Notebook]()
