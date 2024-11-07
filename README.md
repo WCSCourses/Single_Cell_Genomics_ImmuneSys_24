@@ -75,14 +75,23 @@ This hands-on bioinformatics workshop will offer a series of lectures and practi
 
 # Bioinformatics Material
 
+### Lectures
+
+These lectures aim to complement practical modules focused on immune system applications. They will cover the fundamentals of single-cell technology, guide you through designing an experiment, and explore how these technologies are used to study immune system regulation.
+
+Date: 9-11 November
+
+- Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides]()
+- How to design a scRNaseq experiment [Slides]()
+- Unprecedented insights into immune system regulation with single-cell technologies [Slides]()
+
 ### Module 1: scRNA-seq tutorial
 
 Date: Saturday 9 November
 
 Single-cell RNA sequencing (scRNA-seq) technology revolutionizes our understanding of cellular heterogeneity by enabling transcriptomic analysis at the single-cell level. This tutorial will explain the basis of single-cell and immune system applications through a lecture that delves into the principles and methodologies of scRNA-seq, with focus on how they shape and influence analysis. Key technological implementations will be discussed. More technical part of this talk will outline processing the sequencing data, from raw reads in FASTQ files to preprocessing-ready count matrices and methods for cleaning and adjusting data in preprocessing (identification of bad quality cells and multiplets, demultiplexing pooled samples). Finally, this tutorial will offer a computational practice using open data to understand the workflow of scRNA-seq data analysis.
 
-- Lecture: Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides]()
-- scRNAseq tutorial [Slides]()
+- scRNAseq tutorial [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/main/modules/Module1_scRNAseq/Module1_scRNAseq_structure_basicQC.pdf)
 - scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq.ipynb)
 - scRNAseq workshop solutions [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq_Workshop_Solutions.ipynb)
 
