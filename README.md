@@ -5,7 +5,7 @@
 ## 9–11 November 2024, Universidad CES, Medellín, Colombia
 
 [Wellcome Connecting Science Course Run Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomic-approaches-to-study-the-immune-system-latin-america-the-caribbean-20241109/) <br /> 
-[Course Time Table](Coming Soon..) <br /> 
+[Course Time Table](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/main/Single_Cell_JAGUAR_Course_Time_Table.pdf) <br /> 
 [Course Informatics Guide](Coming Soon..)
 
 # Summary
