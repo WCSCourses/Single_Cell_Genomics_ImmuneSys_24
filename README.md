@@ -91,7 +91,10 @@ Date: Saturday 9 November
 
 Single-cell RNA sequencing (scRNA-seq) technology revolutionizes our understanding of cellular heterogeneity by enabling transcriptomic analysis at the single-cell level. This tutorial will explain the basis of single-cell and immune system applications through a lecture that delves into the principles and methodologies of scRNA-seq, with focus on how they shape and influence analysis. Key technological implementations will be discussed. More technical part of this talk will outline processing the sequencing data, from raw reads in FASTQ files to preprocessing-ready count matrices and methods for cleaning and adjusting data in preprocessing (identification of bad quality cells and multiplets, demultiplexing pooled samples). Finally, this tutorial will offer a computational practice using open data to understand the workflow of scRNA-seq data analysis.
 
-- scRNAseq tutorial [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/main/modules/Module1_scRNAseq/Module1_scRNAseq_structure_basicQC.pdf)
+- Presentations:
+  - Data structure and basic quality control [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/main/modules/Module1_scRNAseq/Module1_scRNAseq_structure_basicQC.pdf)
+  - Data normalization and clustering [Slides](https://benilton.github.io/wcs-rio/norm_clust.html)
+  - Differential expression and cell type annotation [Slides](https://benilton.github.io/wcs-rio/de_annot.html)
 - scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq.ipynb)
 - scRNAseq workshop solutions [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq_Workshop_Solutions.ipynb)
 
