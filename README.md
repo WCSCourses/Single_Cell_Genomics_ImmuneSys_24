@@ -115,9 +115,12 @@ Date: Sunday 10 November
 
 Single cell technologies provide significant opportunities for biological discovery, but the laboratory methods and intrinsic sample variability pose challenges when analyzing samples together. Similarly, the sparse nature of expression data requires special statistical handling when comparing samples across groups. This module present ways to deal with batch effects and variance-reducing methods in downstream analyses of scRNAseq. On the other hand, this module cover the basics of receptor biology and explain how receptor sequences are obtained, both through targeted methods and serendipitous discovery. It will address the challenges involved in interpreting these sequences and explore the various applications of this data. In the practical section, participants will work with single-cell RNA sequencing (scRNA-seq) data that contains receptor information. The session will include an introduction to accessing this data and outline the typical benefits it provides.
 
-- Lecture: Combining samples together in the analysis to answer biological questions [Google Colab Notebook]()
-- Immune receptor repertoires in single-cell technologies [Slides]()
-- Immune receptor repertoires in single-cell technologies [Google Colab Notebook]()
+- Presentations:
+  - Lecture: Combining samples together in the analysis to answer biological questions [Slides](https://docs.google.com/presentation/d/1Z4OODsGVHO0xAw0wfMbCs6_sI_H6rKs301Y0KiTeUdA/edit?usp=sharing)
+  - Immune receptor repertoires in single-cell technologies [Slides](https://docs.google.com/presentation/d/1ewVDWzZE07QZlRBSYCPLZ4g6hEeLtJFz/edit?usp=sharing&ouid=104245724826540258577&rtpof=true&sd=true)
+- Tutorials:
+  - Practical 11: Differential expression analysis [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module3_MultiSample_ImmuneReceptor_Analysis/Module_3_%20dge.ipynb)
+  - Practical 12: Immune receptor repertoires in single-cell technologies [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module3_MultiSample_ImmuneReceptor_Analysis/Module_3_Immune_receptor_repertoires.ipynb)
 
 ### Module 4: ATAC-seq tutorial
 
