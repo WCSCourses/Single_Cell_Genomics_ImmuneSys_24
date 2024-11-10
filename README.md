@@ -81,8 +81,8 @@ These lectures aim to complement practical modules focused on immune system appl
 
 Date: 9-11 November
 
-- Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides]()
-- How to design a scRNaseq experiment [Slides]()
+- Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides](https://docs.google.com/viewer?url=https://github.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/raw/main/modules/Module1_scRNAseq/Module1_intro_scRNAseq.pdf)
+- How to design a scRNaseq experiment [Slides](https://docs.google.com/viewer?url=https://github.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/raw/main/modules/Lectures/single_cell_course_Exp_design_Medellin_2024.pdf)
 - Unprecedented insights into immune system regulation with single-cell technologies [Slides]()
 
 ### Module 1: scRNA-seq tutorial
@@ -105,8 +105,10 @@ Date: Sunday 10 November
 
 CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an advanced technique that merges single-cell RNA sequencing (scRNA-seq) with protein marker detection, enabling comprehensive profiling of individual cells at both the transcriptomic and proteomic levels. By attaching unique oligonucleotide barcodes to antibodies that bind specific cell surface proteins, CITE-Seq allows for simultaneous measurement of gene expression and protein abundance in thousands of single cells. This dual-modality approach offers deeper insights into cellular heterogeneity, states, and functions compared to traditional methods. CITE-Seq has proven invaluable in various fields, including immunology, oncology, and developmental biology, providing a powerful tool for deciphering complex biological systems and advancing precision medicine. This technique's ability to integrate RNA and protein data from the same cells presents new opportunities for biomarker discovery, disease characterization, and therapeutic development. This tutorial will explain the basis and the computational analysis of CITE-seq data.
 
-- CITEseq tutorial [Slides]()
-- CITEseq tutorial [Google Colab Notebook]()
+- Presentations:
+  - CITEseq tutorial [Slides]()
+- Tutorials:
+  - Practical 5: The basic structure of a multimodal Seurat Object [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module2_CITEseq/Practical_5_The_basic_structure_of_a_multimodal_Seurat_Object.ipynb)
 
 ### Module 3: Between groups analysis and Immune receptors
 
