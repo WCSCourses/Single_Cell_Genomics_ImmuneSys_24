@@ -106,9 +106,13 @@ Date: Sunday 10 November
 CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an advanced technique that merges single-cell RNA sequencing (scRNA-seq) with protein marker detection, enabling comprehensive profiling of individual cells at both the transcriptomic and proteomic levels. By attaching unique oligonucleotide barcodes to antibodies that bind specific cell surface proteins, CITE-Seq allows for simultaneous measurement of gene expression and protein abundance in thousands of single cells. This dual-modality approach offers deeper insights into cellular heterogeneity, states, and functions compared to traditional methods. CITE-Seq has proven invaluable in various fields, including immunology, oncology, and developmental biology, providing a powerful tool for deciphering complex biological systems and advancing precision medicine. This technique's ability to integrate RNA and protein data from the same cells presents new opportunities for biomarker discovery, disease characterization, and therapeutic development. This tutorial will explain the basis and the computational analysis of CITE-seq data.
 
 - Presentations:
-  - CITEseq tutorial [Slides]()
+  - CITEseq tutorial [Slides](https://drive.google.com/drive/folders/1sdqfONM6nBs1M3jt_HO1-Qy2PWJRsPaW?usp=sharing)
 - Tutorials:
-  - Practical 5: The basic structure of a multimodal Seurat Object [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module2_CITEseq/Practical_5_The_basic_structure_of_a_multimodal_Seurat_Object.ipynb)
+  - Practical 5: The basic structure of a multimodal Seurat Object [Google Colab Notebook](https://colab.research.google.com/drive/18LiunIhZN-2VqrPzJz4tSlJ-yV8KuFNE?usp=drive_link)
+  - Practical 6: Background correction and normalization [Google Colab Notebook](https://colab.research.google.com/drive/17kOUk4lqE_J52nrozPv7pEK5x-u6XR5W?usp=sharing)
+  - Practical 7: Visualization of protein  levels and cell populations [Google Colab Notebook](https://colab.research.google.com/drive/1gTNSD403yT15_5HRwW5bj91R7-5tmJTB?usp=sharing)
+  - Practical 8: Options for CITE-seq-based annotation [Google Colab Notebook](https://colab.research.google.com/drive/1Gcv4bPaNCA9uUF7qdf3NvW7UjdCgaQDd?usp=sharing)
+  - Practical 9: Integration of multiple batches [Google Colab Notebook](https://colab.research.google.com/drive/1jwHP76SbX6JQNjZwLgY_fEje_Lky39OL?usp=drive_link)
 
 ### Module 3: Between groups analysis and Immune receptors
 
