@@ -134,8 +134,11 @@ Date: Monday 11 November
 
 Single-cell transposase-accessible chromatin sequencing (scATAC-seq) represents the most innovative technology for examining genome-wide regulatory landscapes in single cells. For this tutorial, we will be analyzing a single-cell ATAC-seq dataset of human peripheral blood mononuclear cells (PBMCs) provided by 10x Genomics. We will run bridge integration for PBMC with the newly released Azimuth ATAC workflow. In this workshop we will review the existing statistical tools for analyzing scATAC-seq data, how to document your analysis and review some tools for interpreting results.
 
-- ATACseq tutorial [Slides]()
-- ATACseq tutorial [Google Colab Notebook]()
+- ATACseq manual [Matherial](https://eveliacoss.github.io/Tutorial_ISCB_LATAM_scATACseq)
+- ATACseq practice 13 [Google Collab tutorial](https://colab.research.google.com/drive/1o-2mHth0v4zvTxSxI6y_RQBKNiw50QlK?usp=sharing#scrollTo=619lBq1HZgXN)
+- ATACseq practice 14 [Google Collab tutorial](https://colab.research.google.com/drive/1cCfT3HTSUiTfqF11EkuxCzlHs1obdQHs#scrollTo=1BTvGSSXN_GA)
+- ATACseq practice 15  [Google Collab tutorial](https://colab.research.google.com/drive/1QzCOMi4z8lW3r7qqx7FD6_YfSezHRbTW?usp=sharing#scrollTo=GJpLm1iAtvsl)
+- ATACseq practice 16 [Google Collab tutorial](https://colab.research.google.com/drive/1r4UGJ3dCRi2svSiCiW087wpLtyG2fMiv#scrollTo=GRVE9tCBg9P1)
 
 ******
 
