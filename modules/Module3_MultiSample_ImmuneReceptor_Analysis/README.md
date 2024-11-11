@@ -23,3 +23,20 @@ Single cell technologies provide significant opportunities for biological discov
 8. Apply methods learned in previous practical parts to interact with a scRNAseq object that includes immune receptor information
 
 
+###  Directory content
+
+  *oneslide.pdf* Very important additional infromations - R versus python etc.
+
+
+  *Module3_MultiSampleAnalysis.pdf* Presentation for the multisample analysis
+  
+  *Module_3_ dge.ipynb*  practical for multisample analysis part
+
+
+  *Module_3_TCRs.pdf* Presentation for the TCR part
+  
+  *Module_3_Immune_receptor_repertoires.ipynb* practical for TCRs part
+  
+  *just_in_case*     Additional files for the TCR practical
+
+
