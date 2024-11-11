@@ -83,7 +83,7 @@ Date: 9-11 November
 
 - Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides](https://docs.google.com/viewer?url=https://github.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/raw/main/modules/Module1_scRNAseq/Module1_intro_scRNAseq.pdf)
 - How to design a scRNaseq experiment [Slides](https://docs.google.com/viewer?url=https://github.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/raw/main/modules/Lectures/single_cell_course_Exp_design_Medellin_2024.pdf)
-- Unprecedented insights into immune system regulation with single-cell technologies [Slides]()
+- Unprecedented insights into immune system regulation with single-cell technologies [Slides](https://docs.google.com/viewer?url=https://github.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/raw/main/modules/Lectures/Medellin_scImm_Gosia.pdf)
 
 ### Module 1: scRNA-seq tutorial
 
