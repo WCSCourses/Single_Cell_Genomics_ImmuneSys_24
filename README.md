@@ -97,7 +97,7 @@ Single-cell RNA sequencing (scRNA-seq) technology revolutionizes our understandi
   - Data normalization and clustering [Slides](https://benilton.github.io/wcs-rio/norm_clust.html)
   - Differential expression and cell type annotation [Slides](https://benilton.github.io/wcs-rio/de_annot.html)
 - Tutorials:
-  - Practical 1 to 4: scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq.ipynb)
+  - Practical 1 to 4: scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/Practical_1_to_4_scRNAseq.ipynb)
   - scRNAseq workshop solutions [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq_Workshop_Solutions.ipynb)
 
 ### Module 2: CITE-seq tutorial
